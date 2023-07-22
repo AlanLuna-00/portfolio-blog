@@ -1,0 +1,4 @@
+# ignore node_modules all folders
+
+./portfolio/node_modules
+./portfolio-back/node_modules
